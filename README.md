@@ -2,25 +2,19 @@
 
 ---
 
-葡式蛋挞（egg-tart）：
+糕点：
 
-<http://www.xiachufang.com/recipe/1000594/>
-
-![](./pictures/egg-tart.jpg)
+<https://github.com/tuntuntunwu/cook/blob/master/糕点.md>
 
 ---
 
-披萨（pizza）：
+中餐：
 
-<http://www.xiachufang.com/recipe/257382/>
-
-![](./pictures/pizza.jpg)
+<https://github.com/tuntuntunwu/cook/blob/master/中餐.md>
 
 ---
 
-戚风蛋糕（chiffon）：
+西餐：
 
-<http://blog.sina.com.cn/s/blog_4a5089ff01009gi7.html>
-
-![](./pictures/chiffon.jpg)
+<https://github.com/tuntuntunwu/cook/blob/master/西餐.md>
 
